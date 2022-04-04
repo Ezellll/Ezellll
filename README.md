@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a 4th year electrical and electronics engineering student at Eskişehir Osmangazi University. I am interested in Data Science, Machine Learning, Artificial Intelligence and image processing and I improve myself in these areas with my studies.
+I am a 4th year student of  Electrical and Electronics Engineering at Eskişehir Osmangazi University. I am interested in Data Science, Machine Learning, Artificial Intelligence and image processing and I improve myself in these areas with my studies.
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=Ezellll&layout=compact&show_icons=true&theme=dracula)
 ![Github stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezellll&layout=compact&show_icons=true&theme=dracula)
