@@ -4,7 +4,7 @@ I am a 4th year student of  Electrical and Electronics Engineering at Eskişehir
 
 - 🔭 I’m currently working on **Turkcell Data Science Bootcamp**
 
-- 🌱 I’m currently learning **data science**
+- 🌱 I’m currently learning **Data Science, Machine Learning**
 
 - 📫 How to reach me **ezelbilgili@gmail.com**
 
