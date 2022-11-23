@@ -2,7 +2,7 @@
 
 I am a 4th year student of  Electrical and Electronics Engineering at Eskişehir Osmangazi University. I am interested in Data Science, Machine Learning, Artificial Intelligence and Image processing and I improve myself in these areas with my studies.
 
-- 🔭 I’m currently working on **Turkcell Data Science Bootcamp**
+- 🔭 I’m currently working on **Turkcell Group Company Atmosware**
 
 - 🌱 I’m currently learning **Data Science, Machine Learning**
 
