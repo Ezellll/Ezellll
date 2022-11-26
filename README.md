@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a 4th year student of  Electrical and Electronics Engineering at Eskişehir Osmangazi University. I am interested in Data Science, Machine Learning, Artificial Intelligence and Image processing and I improve myself in these areas with my studies.
+I graduated from Eskişehir Osmangazi University, Department of Electrical and Electronics Engineering with a 3.37/4.00 GPA. I am a data scientist skilled in Data Analytics, Data Modeling, SQL and Python. I am determined to improve myself and become an expert in this field.
 
 - 🔭 I’m currently working on **Turkcell Group Company Atmosware**
 
